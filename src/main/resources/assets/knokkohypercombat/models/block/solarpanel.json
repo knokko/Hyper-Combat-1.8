@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": 
+    {
+        "down": "knokkohypercombat:blocks/solarpanel_bottom",
+        "up": "knokkohypercombat:blocks/solarpanel_top",
+        "north": "knokkohypercombat:blocks/solarpanel_side",
+        "south": "knokkohypercombat:blocks/solarpanel_side",
+        "west": "knokkohypercombat:blocks/solarpanel_side",
+        "east": "knokkohypercombat:blocks/solarpanel_side"
+    }
+}

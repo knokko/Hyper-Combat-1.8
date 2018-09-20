@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "knokkohypercombat:generator" },
+        "facing=south": { "model": "knokkohypercombat:generator", "y": 180 },
+        "facing=west":  { "model": "knokkohypercombat:generator", "y": 270 },
+        "facing=east":  { "model": "knokkohypercombat:generator", "y": 90 }
+    }
+}

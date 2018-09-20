@@ -1,0 +1,18 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "knokkohypercombat:items/lasergun"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 180, 90, -20 ],
+            "translation": [ 0, 0.0, -9.0 ],
+            "scale": [ 2.0, 2.0, 2.0 ]
+        },
+        "firstperson": {
+            "rotation": [ 180, -135, 180 ],
+            "translation": [ 0, 4, 2 ],
+            "scale": [ 3.0, 3.0, 3.0 ]
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": 
+    {
+        "top": "knokkohypercombat:blocks/generator_top",
+        "front": "knokkohypercombat:blocks/generator_front",
+        "side": "knokkohypercombat:blocks/generator_side"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": 
+    {
+        "top": "knokkohypercombat:blocks/ingotenchanter_top",
+        "front": "knokkohypercombat:blocks/ingotenchanter_front",
+        "side": "knokkohypercombat:blocks/ingotenchanter_side"
+    }
+}

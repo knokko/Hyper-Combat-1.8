@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "knokkohypercombat:ingotenchanter" },
+        "facing=south": { "model": "knokkohypercombat:ingotenchanter", "y": 180 },
+        "facing=west":  { "model": "knokkohypercombat:ingotenchanter", "y": 270 },
+        "facing=east":  { "model": "knokkohypercombat:ingotenchanter", "y": 90 }
+    }
+}

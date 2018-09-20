@@ -1,0 +1,32 @@
+item.testitem.name=Test Item
+item.battery.name=Battery
+item.yellowbattery.name=Yellow Battery
+item.lasergun.name=Laser Gun
+item.lasershipgun.name=Laser Cannon
+item.blastlasershipgun.name=Blast Laser Cannon
+item.hyperboots.name=Hyper Boots
+item.silicon.name=Silicon
+item.copperingot.name=Copper Ingot
+item.bluesilicon.name=Blue Silicon
+item.blueiron.name=Blue Iron Ingot
+item.yellowcopper.name=Yellow Copper Ingot
+item.stonewheel.name=Stone Wheel
+item.energytank.name=Energy Tank
+item.energyconverter.name=Energy Converter
+item.heatconverter.name=Heat Converter
+
+tile.ingotenchanter.name=Metal Enchanter
+tile.generator.name=Generator
+tile.solarpanel.name=Solar Panel
+tile.coppercable.name=Copper Cable
+tile.energystorage.name=Energy Storage
+tile.siliconore.name=Silicon Ore
+tile.copperore.name=Copper Ore
+tile.copperblock.name=Copper Block
+
+key.categories.knokkohypercombat=Hyper Combat
+key.z=Zoom
+
+container.ingotenchanter=Ingot Enchanter
+container.solarpanel=Solar Panel
+container.generator.name=Generator
